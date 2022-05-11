@@ -1,5 +1,14 @@
 git add test.txt
 
-1 git commit -m "commit 1"
-2 git commit -m "commit 2"
-3 git checkout -b bugFix
+Решение задач введения:
+
+1.1 git commit -m "commit 1"
+1.2 git commit -m "commit 2"
+
+2.0 git checkout -b bugFix
+
+3.1 git checkout bugFix
+3.2 git commit -m "Fix file content"
+3.3 git checkout main
+3.4 git commit -m "empty coomit"
+3.5 git merge bugFix
