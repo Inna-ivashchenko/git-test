@@ -21,3 +21,6 @@ git add test.txt
 
 2.1 git checkout bugFix
 2.2 git checkout 32754a03
+
+3.1 git checkout -b task-2-3
+3.2 git commit -m "Start solution task 2.3"
