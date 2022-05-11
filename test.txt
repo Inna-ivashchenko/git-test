@@ -1,6 +1,6 @@
 git add test.txt
 
-Решение задач введения:
+Решение задач "Введения":
 
 1.1 git commit -m "commit 1"
 1.2 git commit -m "commit 2"
@@ -12,3 +12,9 @@ git add test.txt
 3.3 git checkout main
 3.4 git commit -m "empty coomit"
 3.5 git merge bugFix
+
+Решение задач раздела "Едем дальше"
+
+1.1 git checkout bugFix
+1.2 git commit -m "Add new solution"
+1.3 git checkout %hash%
