@@ -24,3 +24,6 @@ git add test.txt
 
 3.1 git checkout -b task-2-3
 3.2 git commit -m "Start solution task 2.3"
+3.3 git branch -f task-2-3 5c7f035c
+3.4 git branch -f main 0bd79020
+3.5 git checkout 051ce0b1
